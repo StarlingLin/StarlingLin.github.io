@@ -1,13 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: StarlingLin
+title: StarlingLin | Blog & Shares
+description: It's StarlingLin's personal blog! Programming & Others!
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - code
+  - programme
+  - 博客
+  - StarlingLin
 show_hero: true
 menu:
   - title: Home
@@ -18,9 +17,9 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: 2222040903@qq.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: starlinglin
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: https://formspree.io/f/xdorbnrl
