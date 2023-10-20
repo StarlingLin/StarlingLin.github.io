@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: StarlingLin
+title: StarlingLin | Blog & Shares
+description: It's StarlingLin's personal blog! Programming & Others!
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - code
+  - programme
+  - 博客
+  - StarlingLin
 show_hero: true
 menu:
   - title: Home
@@ -19,35 +18,35 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: 2222040903@qq.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: starlinglin
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: https://formspree.io/f/xdorbnrl
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: StarlingLin
+facebook_username: 
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+medium_username: 
 
 
 # Posts Settings
-show_time_bar: true
-show_modal_on_exit: false
-show_modal_on_finish_post: true
+show_time_bar: false
+show_modal_on_exit: true
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+url: "StarlingLin.github.io" # the base hostname & protocol for your site
+google_analytics: ""
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
