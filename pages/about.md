@@ -11,6 +11,6 @@ permalink: /about/
 
 # About
 
-**StarlingLin, a chinese programmer, is now a college student at JiLin University in China.** 
-Programming Language: Only C & Python now
+**StarlingLin, a chinese programmer, is now a college student at JiLin University in China.** <br>
+Programming Language: Only C & Python now <br>
 Hobbies: Minecraft, Webnovels, VOCALOID
