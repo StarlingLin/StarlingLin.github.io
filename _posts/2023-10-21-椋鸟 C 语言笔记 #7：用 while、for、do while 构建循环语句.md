@@ -25,7 +25,7 @@ author: StarlingLin
 
 C 语言中有 3 种循环语句,while 便是其中一种:
 
-```
+```c
 while (表达式)
     语句;
 //如果循环体想包含更多的语句,可以加上大括号
@@ -35,11 +35,11 @@ while (表达式)
 
 具体执行方式:
 
-![](https://img-blog.csdnimg.cn/6afade74665b46b4870795d658e5a899.png)
+![while执行方式](https://img-blog.csdnimg.cn/6afade74665b46b4870795d658e5a899.png "while执行方式")
 
 例子:
 
-```
+```c
 #include <stdio.h>
 int main()
 {
@@ -68,7 +68,7 @@ int main()
 
 for 循环是三种循环中最常用的,结构如下:
 
-```
+```c
 for(表达式1; 表达式2; 表达式3)
     语句;
 //如果循环体想包含更多的语句,可以加上大括号
@@ -80,7 +80,7 @@ for 循环的三个表达式是有讲究的
 *   表达式 2 用于循环结束条件的判断
 *   表达式 3 用于循环变量的调整
 
-![](https://img-blog.csdnimg.cn/ff1c0f2f75c64fcb9418258f14bd7507.jpeg)
+![for执行方式](https://img-blog.csdnimg.cn/ff1c0f2f75c64fcb9418258f14bd7507.jpeg "for执行方式")
 
 整个循环过程中表达式 1 初始化部分只执行了一次
 
@@ -88,7 +88,7 @@ for 循环的三个表达式是有讲究的
 
 举个例子:
 
-```
+```c
 #include <stdio.h>
  
 int main()
@@ -110,7 +110,7 @@ int main()
 
 do while 是最少见的一种循环形式,用法如下:
 
-```
+```c
 do
     语句;
 while (表达式);
@@ -122,13 +122,13 @@ while 和 for 都是**先判断**,条件满足就进入循环
 
 而 do while 是**先循环**,一轮结束后判断,不满足则退出循环
 
-![](https://img-blog.csdnimg.cn/f339fa5c4b554af9a660fc512dfbf98d.png)
+![do while执行方式](https://img-blog.csdnimg.cn/f339fa5c4b554af9a660fc512dfbf98d.png "do while执行方式")
 
 举例:
 
 统计非负整数位数
 
-```
+```c
 #include <stdio.h>
  
 int main()
