@@ -171,7 +171,7 @@ goto 语句可以设置在**同一个函数内**(主函数也是函数哦)跳转
 int main()
 {
     printf("1\n");
-    goto next:
+    goto next;
     printf("2\n");
 next:
     printf("3\n");
