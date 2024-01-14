@@ -1,5 +1,5 @@
 ---
-date: 2023-01-06 20:18:59
+date: 2024-01-06 20:13:19
 layout: post
 title: 椋鸟C语言笔记#30
 subtitle: 动态内存管理（malloc、calloc、realloc、free）、查询已分配空间大小（_msize、malloc_usable_size）
@@ -18,7 +18,7 @@ tags:
   - realloc
   - free
   - _msize
-  - malloc_usable_size
+  - _malloc_usable_size
 author: StarlingLin
 ---
 
