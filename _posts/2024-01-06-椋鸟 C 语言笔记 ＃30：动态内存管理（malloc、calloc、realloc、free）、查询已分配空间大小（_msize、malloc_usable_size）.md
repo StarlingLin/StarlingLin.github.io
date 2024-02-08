@@ -3,7 +3,7 @@ date: 2024-01-06 20:13:19
 layout: post
 title: 椋鸟C语言笔记#30
 subtitle: 动态内存管理（malloc、calloc、realloc、free）、查询已分配空间大小（_msize、malloc_usable_size）
-description: 萌新的学习笔记,写错了恳请斧正。
+description: 动态内存管理（malloc、calloc、realloc、free）、查询已分配空间大小（_msize、malloc_usable_size）
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
 category: code

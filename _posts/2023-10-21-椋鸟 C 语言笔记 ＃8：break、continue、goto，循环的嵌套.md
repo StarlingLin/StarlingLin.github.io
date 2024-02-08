@@ -3,7 +3,7 @@ date: 2023-10-20 23:01:28
 layout: post
 title: 椋鸟C语言笔记#8
 subtitle: break、continue、goto,循环的嵌套
-description: 萌新的学习笔记,写错了恳请斧正。
+description: break、continue、goto,循环的嵌套
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
 category: code

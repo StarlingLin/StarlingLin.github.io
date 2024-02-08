@@ -3,7 +3,7 @@ date: 2023-11-01 23:13:45
 layout: post
 title: 椋鸟C语言笔记#12
 subtitle: 函数、参数、多文件协作、static与extern
-description: 萌新的学习笔记,写错了恳请斧正。
+description: 函数、参数、多文件协作、static与extern
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
 category: code

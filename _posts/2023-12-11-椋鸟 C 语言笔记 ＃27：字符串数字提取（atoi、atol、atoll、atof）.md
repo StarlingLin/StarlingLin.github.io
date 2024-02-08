@@ -3,7 +3,7 @@ date: 2023-12-11 14:16:26
 layout: post
 title: 椋鸟C语言笔记#27
 subtitle: 字符串数字提取（atoi、atol、atoll、atof）
-description: 萌新的学习笔记,写错了恳请斧正。
+description: 字符串数字提取（atoi、atol、atoll、atof）
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
 category: code
